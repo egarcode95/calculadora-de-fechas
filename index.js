@@ -1,3 +1,4 @@
+
 const year = document.querySelector('#year');
 const month = document.querySelector('#month');
 const day = document.querySelector('#day');
