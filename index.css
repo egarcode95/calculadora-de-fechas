@@ -1,0 +1,18 @@
+
+#titulo{
+	color:white;
+}
+
+body {
+
+	background-image:url(/time_baby.webp);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+
+
+output{
+	color: rgb(47, 40, 40);
+}
