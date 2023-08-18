@@ -1,11 +1,11 @@
 
-#titulo{
+h1{
 	color:white;
 }
 
 body {
 
-	background-image:url(/time_baby.webp);
+	background-image:url(/assets/img/time_baby.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: black;
