@@ -3,16 +3,18 @@ h1{
 	color:white;
 }
 
+
+
+
 body {
 
-	background-image:url(../img/time_baby.webp);
-	background-size: cover;
+	
+	background-image: url(../img/time_baby.webp);
+	background-position: center center;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 	background-color: black;
-}
+	}
 
 
-
-output{
-	color: rgb(47, 40, 40);
-}
